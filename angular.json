@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Seminario-Angular"
+    }
+  },
+  "defaultProject": "Seminario-Angular",
+  "cli": {
+    "analytics": "ce322ff2-a34a-49d2-a96f-da6e5c598758"
+  }
 }
